@@ -119,7 +119,7 @@ Value getgenerate(const Array& params, bool fHelp)
         throw runtime_error(
             "getgenerate\n"
             "\nReturn if the server is set to generate coins or not. The default is false.\n"
-            "It is set with the command line argument -staking (or reddcoin.conf setting staking)\n"
+            "It is set with the command line argument -staking (or arepacoin.conf setting staking)\n"
             "It can also be set with the setgenerate call.\n"
             "\nResult\n"
             "true|false      (boolean) If the server is set to generate coins or not\n"
@@ -192,7 +192,7 @@ Value setgenerate(const Array& params, bool fHelp)
             if (nHeightLast != nHeight)
             {
                 nHeightLast = nHeight;
-                GenerateReddcoins(fGenerate, pwalletMain, 1);
+                GenerateArepacoins(fGenerate, pwalletMain, 1);
             }
             MilliSleep(1);
             {   // Don't keep cs_main locked
@@ -205,7 +205,7 @@ Value setgenerate(const Array& params, bool fHelp)
     {
         mapArgs["-staking"] = (fGenerate ? "1" : "0");
         mapArgs ["-genproclimit"] = itostr(nGenProcLimit);
-        GenerateReddcoins(fGenerate, pwalletMain, nGenProcLimit);
+        GenerateArepacoins(fGenerate, pwalletMain, nGenProcLimit);
     }
 
     return Value::null;
@@ -344,10 +344,10 @@ Value getwork(const Array& params, bool fHelp)
         );
 
     if (vNodes.empty())
-        throw JSONRPCError(RPC_CLIENT_NOT_CONNECTED, "Reddcoin is not connected!");
+        throw JSONRPCError(RPC_CLIENT_NOT_CONNECTED, "Arepacoin is not connected!");
 
     if (IsInitialBlockDownload())
-        throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "Reddcoin is downloading blocks...");
+        throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "Arepacoin is downloading blocks...");
 
     if (chainActive.Tip()->nHeight >= Params().LastProofOfWorkHeight())
         throw JSONRPCError(RPC_MISC_ERROR, "No more PoW blocks");
@@ -529,10 +529,10 @@ Value getblocktemplate(const Array& params, bool fHelp)
         throw JSONRPCError(RPC_INVALID_PARAMETER, "Invalid mode");
 
     if (vNodes.empty())
-        throw JSONRPCError(RPC_CLIENT_NOT_CONNECTED, "Reddcoin is not connected!");
+        throw JSONRPCError(RPC_CLIENT_NOT_CONNECTED, "Arepacoin is not connected!");
 
     if (IsInitialBlockDownload())
-        throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "Reddcoin is downloading blocks...");
+        throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "Arepacoin is downloading blocks...");
 
     if (chainActive.Tip()->nHeight >= Params().LastProofOfWorkHeight())
         throw JSONRPCError(RPC_MISC_ERROR, "No more PoW blocks");

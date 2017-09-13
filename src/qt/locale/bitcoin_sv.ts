@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Reddcoin Core</source>
-        <translation>Om Reddcoin Core</translation>
+        <source>About Arepacoin Core</source>
+        <translation>Om Arepacoin Core</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Reddcoin Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Reddcoin Core&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Arepacoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Arepacoin Core&lt;/b&gt; version</translation>
     </message>
     <message>
         <source>
@@ -28,8 +28,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Copyright</translation>
     </message>
     <message>
-        <source>The Reddcoin Core developers</source>
-        <translation>Reddcoin Core utvecklarna</translation>
+        <source>The Arepacoin Core developers</source>
+        <translation>Arepacoin Core utvecklarna</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -103,12 +103,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Mottagaradresser</translation>
     </message>
     <message>
-        <source>These are your Reddcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Detta är dina Reddcoin-adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar Reddcoins.</translation>
+        <source>These are your Arepacoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Detta är dina Arepacoin-adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar Arepacoins.</translation>
     </message>
     <message>
-        <source>These are your Reddcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Detta är dina Reddcoin-adresser för att ta emot betalningar. Det rekommenderas att använda en ny mottagningsadress för varje transaktion.</translation>
+        <source>These are your Arepacoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Detta är dina Arepacoin-adresser för att ta emot betalningar. Det rekommenderas att använda en ny mottagningsadress för varje transaktion.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -225,8 +225,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Plånboken är krypterad</translation>
     </message>
     <message>
-        <source>Reddcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your reddcoins from being stolen by malware infecting your computer.</source>
-        <translation>Reddcoin kommer att stängas för att slutföra krypteringsprocessen. Kom ihåg att plånbokskryptering inte garanterar fullt skydd mot skadlig kod på din dator.</translation>
+        <source>Arepacoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your arepacoins from being stolen by malware infecting your computer.</source>
+        <translation>Arepacoin kommer att stängas för att slutföra krypteringsprocessen. Kom ihåg att plånbokskryptering inte garanterar fullt skydd mot skadlig kod på din dator.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -284,8 +284,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Begär</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and reddcoin: URIs)</source>
-        <translation>Begär betalning (genererar QR-koder och reddcoin-URI)</translation>
+        <source>Request payments (generates QR codes and arepacoin: URIs)</source>
+        <translation>Begär betalning (genererar QR-koder och arepacoin-URI)</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -304,8 +304,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Avsluta programmet</translation>
     </message>
     <message>
-        <source>Show information about Reddcoin</source>
-        <translation>Visa information om Reddcoin</translation>
+        <source>Show information about Arepacoin</source>
+        <translation>Visa information om Arepacoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -360,12 +360,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Öppna &amp;URI...</translation>
     </message>
     <message>
-        <source>Open a reddcoin: URI or payment request</source>
-        <translation>Öppna en reddcoin: URI eller betalningsbegäran</translation>
+        <source>Open a arepacoin: URI or payment request</source>
+        <translation>Öppna en arepacoin: URI eller betalningsbegäran</translation>
     </message>
     <message>
-        <source>Reddcoin Core client</source>
-        <translation>Reddcoin Core-klient</translation>
+        <source>Arepacoin Core client</source>
+        <translation>Arepacoin Core-klient</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -384,12 +384,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation><numerusform>%n minut</numerusform><numerusform>%n minuter</numerusform></translation>
     </message>
     <message>
-        <source>Send coins to a Reddcoin address</source>
-        <translation>Skicka reddcoins till en Reddcoin-adress</translation>
+        <source>Send coins to a Arepacoin address</source>
+        <translation>Skicka arepacoins till en Arepacoin-adress</translation>
     </message>
     <message>
-        <source>Modify configuration options for Reddcoin</source>
-        <translation>Ändra konfigurationsalternativ för Reddcoin</translation>
+        <source>Modify configuration options for Arepacoin</source>
+        <translation>Ändra konfigurationsalternativ för Arepacoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -412,8 +412,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Verifiera meddelande...</translation>
     </message>
     <message>
-        <source>Reddcoin</source>
-        <translation>Reddcoin</translation>
+        <source>Arepacoin</source>
+        <translation>Arepacoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -436,12 +436,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Kryptera de privata nycklar som tillhör din plånbok</translation>
     </message>
     <message>
-        <source>Sign messages with your Reddcoin addresses to prove you own them</source>
-        <translation>Signera meddelanden med din Reddcoin-adress för att bevisa att du äger dem</translation>
+        <source>Sign messages with your Arepacoin addresses to prove you own them</source>
+        <translation>Signera meddelanden med din Arepacoin-adress för att bevisa att du äger dem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Reddcoin addresses</source>
-        <translation>Verifiera meddelanden för att vara säker på att de var signerade med specificerade Reddcoin-adresser</translation>
+        <source>Verify messages to ensure they were signed with specified Arepacoin addresses</source>
+        <translation>Verifiera meddelanden för att vara säker på att de var signerade med specificerade Arepacoin-adresser</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -464,12 +464,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Arepacoin Core</source>
+        <translation>Arepacoin Core</translation>
     </message>
     <message>
-        <source>&amp;About Reddcoin Core</source>
-        <translation>&amp;Om Reddcoin Core</translation>
+        <source>&amp;About Arepacoin Core</source>
+        <translation>&amp;Om Arepacoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -484,12 +484,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Kommandoradsalternativ</translation>
     </message>
     <message>
-        <source>Show the Reddcoin Core help message to get a list with possible Reddcoin command-line options</source>
-        <translation>Visa Reddcoin Cores hjälpmeddelande för att få en lista med möjliga Reddcoin-kommandoradsalternativ.</translation>
+        <source>Show the Arepacoin Core help message to get a list with possible Arepacoin command-line options</source>
+        <translation>Visa Arepacoin Cores hjälpmeddelande för att få en lista med möjliga Arepacoin-kommandoradsalternativ.</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Reddcoin network</source>
-        <translation><numerusform>%n aktiv anslutning till Reddcoin-nätverket.</numerusform><numerusform>%n aktiva anslutningar till Reddcoin-nätverket</numerusform></translation>
+        <source>%n active connection(s) to Arepacoin network</source>
+        <translation><numerusform>%n aktiv anslutning till Arepacoin-nätverket.</numerusform><numerusform>%n aktiva anslutningar till Arepacoin-nätverket</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -580,8 +580,8 @@ Adress: %4
         <translation>Denna plånbok är &lt;b&gt;krypterad&lt;/b&gt; och för närvarande &lt;b&gt;låst&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Reddcoin can no longer continue safely and will quit.</source>
-        <translation>Ett allvarligt fel har uppstått. Reddcoin kan inte längre köras säkert och kommer att avslutas.</translation>
+        <source>A fatal error occurred. Arepacoin can no longer continue safely and will quit.</source>
+        <translation>Ett allvarligt fel har uppstått. Arepacoin kan inte längre köras säkert och kommer att avslutas.</translation>
     </message>
 </context>
 <context>
@@ -865,8 +865,8 @@ Adress: %4
         <translation>Den angivna adressen "%1" finns redan i adressboken.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Reddcoin address.</source>
-        <translation>Den angivna adressen "%1" är inte en giltig Reddcoin-adress.</translation>
+        <source>The entered address "%1" is not a valid Arepacoin address.</source>
+        <translation>Den angivna adressen "%1" är inte en giltig Arepacoin-adress.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -903,12 +903,12 @@ Adress: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Reddcoin Core - Command-line options</source>
-        <translation>Reddcoin Core - Kommandoradsalternativ</translation>
+        <source>Arepacoin Core - Command-line options</source>
+        <translation>Arepacoin Core - Kommandoradsalternativ</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Arepacoin Core</source>
+        <translation>Arepacoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -954,16 +954,16 @@ Adress: %4
         <translation>Välkommen</translation>
     </message>
     <message>
-        <source>Welcome to Reddcoin Core.</source>
-        <translation>Välkommen till Reddcoin Core.</translation>
+        <source>Welcome to Arepacoin Core.</source>
+        <translation>Välkommen till Arepacoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Reddcoin Core will store its data.</source>
-        <translation>Eftersom detta är första gången programmet startas får du välja var Reddcoin Core skall lagra sina data.</translation>
+        <source>As this is the first time the program is launched, you can choose where Arepacoin Core will store its data.</source>
+        <translation>Eftersom detta är första gången programmet startas får du välja var Arepacoin Core skall lagra sina data.</translation>
     </message>
     <message>
-        <source>Reddcoin Core will download and store a copy of the Reddcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Reddcoin Core kommer att ladda ner och spara en kopia av Reddcoin-blockkedjan. Åtminstone %1GB av data kommer att sparas i denna katalog, och den kommer att växa över tiden. Plånboken kommer också att sparas i denna katalog.</translation>
+        <source>Arepacoin Core will download and store a copy of the Arepacoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Arepacoin Core kommer att ladda ner och spara en kopia av Arepacoin-blockkedjan. Åtminstone %1GB av data kommer att sparas i denna katalog, och den kommer att växa över tiden. Plånboken kommer också att sparas i denna katalog.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -974,8 +974,8 @@ Adress: %4
         <translation>Använd en anpassad datakatalog:</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Arepacoin Core</source>
+        <translation>Arepacoin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" can not be created.</source>
@@ -1036,12 +1036,12 @@ Adress: %4
         <translation>Betala överförings&amp;avgift</translation>
     </message>
     <message>
-        <source>Automatically start Reddcoin after logging in to the system.</source>
-        <translation>Starta Reddcoin automatiskt efter inloggning.</translation>
+        <source>Automatically start Arepacoin after logging in to the system.</source>
+        <translation>Starta Arepacoin automatiskt efter inloggning.</translation>
     </message>
     <message>
-        <source>&amp;Start Reddcoin on system login</source>
-        <translation>&amp;Starta Reddcoin vid systemstart</translation>
+        <source>&amp;Start Arepacoin on system login</source>
+        <translation>&amp;Starta Arepacoin vid systemstart</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1056,8 +1056,8 @@ Adress: %4
         <translation>Antalet skript&amp;verifikationstrådar</translation>
     </message>
     <message>
-        <source>Connect to the Reddcoin network through a SOCKS proxy.</source>
-        <translation>Anslut till Reddcoin-nätverket genom en SOCKS-proxy.</translation>
+        <source>Connect to the Arepacoin network through a SOCKS proxy.</source>
+        <translation>Anslut till Arepacoin-nätverket genom en SOCKS-proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS proxy (default proxy):</source>
@@ -1116,8 +1116,8 @@ Adress: %4
         <translation>&amp;Spendera obekräftad växel</translation>
     </message>
     <message>
-        <source>Automatically open the Reddcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt Reddcoin-klientens port på routern. Detta fungerar endast om din router har UPnP aktiverat.</translation>
+        <source>Automatically open the Arepacoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt Arepacoin-klientens port på routern. Detta fungerar endast om din router har UPnP aktiverat.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1172,8 +1172,8 @@ Adress: %4
         <translation>Användargränssnittets &amp;språk:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Reddcoin.</source>
-        <translation>Gränssnittets språk kan väljas här. Denna inställning träder i kraft efter omstart av Reddcoin Core.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Arepacoin.</source>
+        <translation>Gränssnittets språk kan väljas här. Denna inställning träder i kraft efter omstart av Arepacoin Core.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1184,8 +1184,8 @@ Adress: %4
         <translation>Välj en måttenhet att visa i gränssnittet och när du skickar mynt.</translation>
     </message>
     <message>
-        <source>Whether to show Reddcoin addresses in the transaction list or not.</source>
-        <translation>Anger om Reddcoin-adresser skall visas i transaktionslistan.</translation>
+        <source>Whether to show Arepacoin addresses in the transaction list or not.</source>
+        <translation>Anger om Arepacoin-adresser skall visas i transaktionslistan.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1239,8 +1239,8 @@ Adress: %4
         <translation>Formulär</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Reddcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara inaktuell. Plånboken synkroniseras automatiskt med Reddcoin-nätverket efter att anslutningen är upprättad, men denna process har inte slutförts ännu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Arepacoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara inaktuell. Plånboken synkroniseras automatiskt med Arepacoin-nätverket efter att anslutningen är upprättad, men denna process har inte slutförts ännu.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1294,8 +1294,8 @@ Adress: %4
         <translation>URI hantering</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Reddcoin address or malformed URI parameters.</source>
-        <translation>URI går inte att tolkas! Detta kan orsakas av en ogiltig Reddcoin-adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Arepacoin address or malformed URI parameters.</source>
+        <translation>URI går inte att tolkas! Detta kan orsakas av en ogiltig Arepacoin-adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
@@ -1306,8 +1306,8 @@ Adress: %4
         <translation>Fel vid betalningsbegäran</translation>
     </message>
     <message>
-        <source>Cannot start reddcoin: click-to-pay handler</source>
-        <translation>Kan inte starta reddcoin: klicka-och-betala handhavare</translation>
+        <source>Cannot start arepacoin: click-to-pay handler</source>
+        <translation>Kan inte starta arepacoin: klicka-och-betala handhavare</translation>
     </message>
     <message>
         <source>Net manager warning</source>
@@ -1361,8 +1361,8 @@ Adress: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Arepacoin Core</source>
+        <translation>Arepacoin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -1377,12 +1377,12 @@ Adress: %4
         <translation>Fel: Felaktig kombination av -regtest och -testnet.</translation>
     </message>
     <message>
-        <source>Reddcoin Core didn't yet exit safely...</source>
-        <translation>Reddcoin Core avslutades inte ännu säkert...</translation>
+        <source>Arepacoin Core didn't yet exit safely...</source>
+        <translation>Arepacoin Core avslutades inte ännu säkert...</translation>
     </message>
     <message>
-        <source>Enter a Reddcoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Ange en Reddcoin-adress (t.ex. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>Enter a Arepacoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Ange en Arepacoin-adress (t.ex. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
 </context>
 <context>
@@ -1499,16 +1499,16 @@ Adress: %4
         <translation>Debugloggfil</translation>
     </message>
     <message>
-        <source>Open the Reddcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna felsökningsloggfilen för Reddcoin från den nuvarande datakatalogen. Detta kan ta några sekunder om loggfilen är stor.</translation>
+        <source>Open the Arepacoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna felsökningsloggfilen för Arepacoin från den nuvarande datakatalogen. Detta kan ta några sekunder om loggfilen är stor.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Rensa konsollen</translation>
     </message>
     <message>
-        <source>Welcome to the Reddcoin RPC console.</source>
-        <translation>Välkommen till RPC-konsolen för Reddcoin Core.</translation>
+        <source>Welcome to the Arepacoin RPC console.</source>
+        <translation>Välkommen till RPC-konsolen för Arepacoin Core.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1570,8 +1570,8 @@ Adress: %4
         <translation>Åt&amp;eranvänd en existerande mottagningsadress (rekommenderas inte)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Reddcoin network.</source>
-        <translation>Ett frivilligt meddelande att bifoga betalningsbegäran, vilket visas när begäran öppnas. NB: Meddelandet kommer inte att sändas med betalningen över Reddcoinnätverket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Arepacoin network.</source>
+        <translation>Ett frivilligt meddelande att bifoga betalningsbegäran, vilket visas när begäran öppnas. NB: Meddelandet kommer inte att sändas med betalningen över Arepacoinnätverket.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1883,8 +1883,8 @@ Adress: %4
         <translation>Transaktionen avslogs! Detta kan hända om några av mynten i plånboken redan spenderats, t.ex om du använt en kopia av wallet.dat och mynt spenderades i kopian men inte markerats som spenderade här.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Reddcoin address</source>
-        <translation>Varning: Felaktig Reddcoinadress</translation>
+        <source>Warning: Invalid Arepacoin address</source>
+        <translation>Varning: Felaktig Arepacoinadress</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1938,8 +1938,8 @@ Adress: %4
         <translation>Detta är en normal betalning.</translation>
     </message>
     <message>
-        <source>The Reddcoin address to send the payment to (e.g. Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</source>
-        <translation>Reddcoinadress att sända betalning till (t.ex. Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</translation>
+        <source>The Arepacoin address to send the payment to (e.g. Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</source>
+        <translation>Arepacoinadress att sända betalning till (t.ex. Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1962,8 +1962,8 @@ Adress: %4
         <translation>Meddelande:</translation>
     </message>
     <message>
-        <source>A message that was attached to the reddcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Reddcoin network.</source>
-        <translation>Ett meddelande som bifogades bitcoin-URI, vilket lagras med transaktionen som referens. NB: Meddelandet kommer inte att sändas över Reddcoinnätverket.</translation>
+        <source>A message that was attached to the arepacoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Arepacoin network.</source>
+        <translation>Ett meddelande som bifogades bitcoin-URI, vilket lagras med transaktionen som referens. NB: Meddelandet kommer inte att sändas över Arepacoinnätverket.</translation>
     </message>
     <message>
         <source>This is a verified payment request.</source>
@@ -1989,8 +1989,8 @@ Adress: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Reddcoin Core is shutting down...</source>
-        <translation>Reddcoin Core stängs av...</translation>
+        <source>Arepacoin Core is shutting down...</source>
+        <translation>Arepacoin Core stängs av...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2012,8 +2012,8 @@ Adress: %4
         <translation>Du kan underteckna meddelanden/avtal med dina adresser för att bevisa att du kan ta emot bitcoins som skickats till dem. Var försiktig så du inte undertecknar något oklart eller konstigt, eftersom phishing-angrepp kan försöka få dig att underteckna din identitet till dem. Underteckna endast väldetaljerade meddelanden som du godkänner.</translation>
     </message>
     <message>
-        <source>The Reddcoin address to sign the message with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Reddcoinadress att signera meddelandet med (t.ex. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX) </translation>
+        <source>The Arepacoin address to sign the message with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Arepacoinadress att signera meddelandet med (t.ex. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX) </translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2044,8 +2044,8 @@ Adress: %4
         <translation>Kopiera signaturen till systemets Urklipp</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Reddcoin address</source>
-        <translation>Signera meddelandet för att bevisa att du äger denna Reddcoinadress</translation>
+        <source>Sign the message to prove you own this Arepacoin address</source>
+        <translation>Signera meddelandet för att bevisa att du äger denna Arepacoinadress</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2068,12 +2068,12 @@ Adress: %4
         <translation>Ange mottagarens adress, meddelande (kopiera radbrytningar, mellanrum, flikar, etc. exakt) och signatur nedan för att verifiera meddelandet. Undvik att läsa in mera information i signaturen än vad som stod i själva undertecknade meddelandet, för att undvika ett man-in-the-middle-angrepp. Notera att detta endast bevisar att undertecknad tar emot med adressen, det bevisar inte vem som skickat transaktionen!</translation>
     </message>
     <message>
-        <source>The Reddcoin address the message was signed with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Reddcoinadressen som meddelandet signerades med (t.ex. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>The Arepacoin address the message was signed with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Arepacoinadressen som meddelandet signerades med (t.ex. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Reddcoin address</source>
-        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den angivna Reddcoin-adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified Arepacoin address</source>
+        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den angivna Arepacoin-adressen</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2088,8 +2088,8 @@ Adress: %4
         <translation>Klicka "Signera Meddelande" för att få en signatur</translation>
     </message>
     <message>
-        <source>Enter a Reddcoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Ange en Reddcoin-adress (t.ex. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>Enter a Arepacoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Ange en Arepacoin-adress (t.ex. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
@@ -2143,12 +2143,12 @@ Adress: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Arepacoin Core</source>
+        <translation>Arepacoin Core</translation>
     </message>
     <message>
-        <source>The Reddcoin Core developers</source>
-        <translation>Reddcoin Core utvecklarna</translation>
+        <source>The Arepacoin Core developers</source>
+        <translation>Arepacoin Core utvecklarna</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2677,24 +2677,24 @@ Adress: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=reddcoinrpc
+rpcuser=arepacoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Arepacoin Alert" admin@foo.com
 </source>
         <translation>%s, du behöver sätta ett rpclösensord i konfigurationsfilen:
 %s
 Det är rekommenderat att använda följande slumpade lösenord:
-rpcuser=reddcoinrpc
+rpcuser=arepacoinrpc
 rpcpassword=%s
 (du behöver inte komma ihåg lösenordet)
 Användarnamnet och lösenordet FÅR INTE bara detsamma.
 Om filen inte existerar, skapa den med enbart ägarläsbara filrättigheter.
 Det är också rekommenderat att sätta alertnotify så du meddelas om problem;
-till exempel: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s "Arepacoin Alert" admin@foo.com
 </translation>
     </message>
     <message>
@@ -2727,7 +2727,7 @@ till exempel: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
     </message>
     <message>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</source>
-        <translation>Fel: Denna transaktion kräver en transaktionsavgift på minst %s på grund av dess storlek, komplexitet, eller användning av senast mottagna reddcoins!</translation>
+        <translation>Fel: Denna transaktion kräver en transaktionsavgift på minst %s på grund av dess storlek, komplexitet, eller användning av senast mottagna arepacoins!</translation>
     </message>
     <message>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
@@ -2758,8 +2758,8 @@ till exempel: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Ange antalet skriptkontrolltrådar (%u till %d, 0 = auto, &lt;0 = lämna så många kärnor lediga, förval: %d)</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Reddcoin Core is probably already running.</source>
-        <translation>Det går inte att binda till %s på den här datorn. Reddcoin Core är förmodligen redan igång.</translation>
+        <source>Unable to bind to %s on this computer. Arepacoin Core is probably already running.</source>
+        <translation>Det går inte att binda till %s på den här datorn. Arepacoin Core är förmodligen redan igång.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: -proxy)</source>
@@ -2770,8 +2770,8 @@ till exempel: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Varning: -paytxfee är väldigt högt satt! Det här är avgiften du kommer betala om du skickar en transaktion.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Reddcoin will not work properly.</source>
-        <translation>Varning: Vänligen kontrollera att din dators datum och tid är korrekt! Om din klocka går fel kommer Reddcoin Core inte att fungera ordentligt.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Arepacoin will not work properly.</source>
+        <translation>Varning: Vänligen kontrollera att din dators datum och tid är korrekt! Om din klocka går fel kommer Arepacoin Core inte att fungera ordentligt.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2954,8 +2954,8 @@ till exempel: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Felaktig eller inget genesisblock hittades. Fel datadir för nätverket?</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Reddcoin Core is shutting down.</source>
-        <translation>Initieringschecken fallerade. Reddcoin Core stängs av...</translation>
+        <source>Initialization sanity check failed. Arepacoin Core is shutting down.</source>
+        <translation>Initieringschecken fallerade. Arepacoin Core stängs av...</translation>
     </message>
     <message>
         <source>Invalid -onion address: '%s'</source>
@@ -2982,8 +2982,8 @@ till exempel: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Skriv ut tidsstämpel i avlusningsinformationen (förvalt: 1)</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the wiki.reddcoin.com for SSL setup instructions)</source>
-        <translation>RPC SSL optioner: (se wiki.reddcoin.com för SSL inställningsinstruktioner)</translation>
+        <source>RPC SSL options: (see the wiki.arepacoin.com for SSL setup instructions)</source>
+        <translation>RPC SSL optioner: (se wiki.arepacoin.com för SSL inställningsinstruktioner)</translation>
     </message>
     <message>
         <source>RPC client options:</source>
@@ -3010,12 +3010,12 @@ till exempel: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Ange antalet trådar för att hantera RPC anrop (förvalt: 4)</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: reddcoin.conf)</source>
-        <translation>Ange konfigurationsfil (förvalt: reddcoin.conf)</translation>
+        <source>Specify configuration file (default: arepacoin.conf)</source>
+        <translation>Ange konfigurationsfil (förvalt: arepacoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: reddcoind.pid)</source>
-        <translation>Ange pid-fil (förvalt: reddcoind.pid)</translation>
+        <source>Specify pid file (default: arepacoind.pid)</source>
+        <translation>Ange pid-fil (förvalt: arepacoind.pid)</translation>
     </message>
     <message>
         <source>Specify wallet file (within data directory)</source>
@@ -3070,8 +3070,8 @@ till exempel: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Importerar block från extern blk000??.dat fil</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Reddcoin Core is probably already running.</source>
-        <translation>Kan inte låsa data-mappen %s. Reddcoin Core körs förmodligen redan.</translation>
+        <source>Cannot obtain a lock on data directory %s. Arepacoin Core is probably already running.</source>
+        <translation>Kan inte låsa data-mappen %s. Arepacoin Core körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
@@ -3162,24 +3162,24 @@ till exempel: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Slupmässigt brus 1 gång varje &lt;n&gt; nätverksmeddelande</translation>
     </message>
     <message>
-        <source>Reddcoin Core Daemon</source>
-        <translation>Reddcoin Core Daemon</translation>
+        <source>Arepacoin Core Daemon</source>
+        <translation>Arepacoin Core Daemon</translation>
     </message>
     <message>
-        <source>Reddcoin Core RPC client version</source>
-        <translation>Reddcoin Core RPC-klient version</translation>
+        <source>Arepacoin Core RPC client version</source>
+        <translation>Arepacoin Core RPC-klient version</translation>
     </message>
     <message>
-        <source>SSL options: (see the Reddcoin Wiki for SSL setup instructions)</source>
-        <translation>RPC SSL optioner: (se Reddcoin Wiki för SSL inställningsinstruktioner)</translation>
+        <source>SSL options: (see the Arepacoin Wiki for SSL setup instructions)</source>
+        <translation>RPC SSL optioner: (se Arepacoin Wiki för SSL inställningsinstruktioner)</translation>
     </message>
     <message>
-        <source>Send command to Reddcoin Core</source>
-        <translation>Skicka commando till Reddcoin Core</translation>
+        <source>Send command to Arepacoin Core</source>
+        <translation>Skicka commando till Arepacoin Core</translation>
     </message>
     <message>
-        <source>Send command to reddcoin Core</source>
-        <translation>Skicka commando till reddcoin Core</translation>
+        <source>Send command to arepacoin Core</source>
+        <translation>Skicka commando till arepacoin Core</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -3214,8 +3214,8 @@ till exempel: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Ange timeout för uppkoppling i millisekunder (förvalt: 5000)</translation>
     </message>
     <message>
-        <source>Start Reddcoin Core Daemon</source>
-        <translation>Starta Reddcoin Core Daemon</translation>
+        <source>Start Arepacoin Core Daemon</source>
+        <translation>Starta Arepacoin Core Daemon</translation>
     </message>
     <message>
         <source>System error: </source>
@@ -3234,8 +3234,8 @@ till exempel: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Transaktionen är för stor</translation>
     </message>
     <message>
-        <source>Usage (deprecated, use reddcoin-cli):</source>
-        <translation>Användning (föråldrat, använd reddcoin-cli):&lt;/</translation>
+        <source>Usage (deprecated, use arepacoin-cli):</source>
+        <translation>Användning (föråldrat, använd arepacoin-cli):&lt;/</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: 0)</source>
@@ -3330,12 +3330,12 @@ till exempel: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Fel vid inläsningen av wallet.dat: Plånboken är skadad</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Reddcoin</source>
-        <translation>Fel vid inläsningen av wallet.dat: Kontofilen kräver en senare version av Reddcoin Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Arepacoin</source>
+        <translation>Fel vid inläsningen av wallet.dat: Kontofilen kräver en senare version av Arepacoin Core</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Reddcoin to complete</source>
-        <translation>Plånboken behöver skrivas om: Starta om Reddcoin för att färdigställa</translation>
+        <source>Wallet needed to be rewritten: restart Arepacoin to complete</source>
+        <translation>Plånboken behöver skrivas om: Starta om Arepacoin för att färdigställa</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

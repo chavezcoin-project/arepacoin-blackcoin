@@ -41,9 +41,9 @@ static const int MAX_PAYMENT_REQUEST_SIZE = 50000; // bytes
 /* Number of frames in spinner animation */
 #define SPINNER_FRAMES 35
 
-#define QAPP_ORG_NAME "Reddcoin"
-#define QAPP_ORG_DOMAIN "reddcoin.com"
-#define QAPP_APP_NAME_DEFAULT "Reddcoin-Qt"
-#define QAPP_APP_NAME_TESTNET "Reddcoin-Qt-testnet"
+#define QAPP_ORG_NAME "Arepacoin"
+#define QAPP_ORG_DOMAIN "arepacoin.com"
+#define QAPP_APP_NAME_DEFAULT "Arepacoin-Qt"
+#define QAPP_APP_NAME_TESTNET "Arepacoin-Qt-testnet"
 
 #endif // GUICONSTANTS_H

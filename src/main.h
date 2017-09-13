@@ -58,9 +58,9 @@ static const unsigned int BLOCKFILE_CHUNK_SIZE = 0x1000000; // 16 MiB
 /** The pre-allocation chunk size for rev?????.dat files (since 0.8) */
 static const unsigned int UNDOFILE_CHUNK_SIZE = 0x100000; // 1 MiB
 /** Fake height value used in CCoins to signify they are only in the memory pool (since 0.8) */
-static const int64_t DUST_SOFT_LIMIT = 100000000; // 1 RDD
+static const int64_t DUST_SOFT_LIMIT = 100000000; // 1 ARC
 /** Dust Hard Limit, ignored as wallet inputs (mininput default) */
-static const int64_t DUST_HARD_LIMIT = 1000000;   // 0.01 RDD mininput
+static const int64_t DUST_HARD_LIMIT = 1000000;   // 0.01 ARC mininput
 /** Coinbase transaction outputs can only be spent after this number of new blocks (network rule) */
 static const int COINBASE_MATURITY = 30;
 /** Threshold for nLockTime: below this value it is interpreted as block number, otherwise as UNIX timestamp. */
@@ -73,7 +73,7 @@ static const int DEFAULT_SCRIPTCHECK_THREADS = 0;
 static const int MAX_BLOCKS_IN_TRANSIT_PER_PEER = 128;
 /** Timeout in seconds before considering a block download peer unresponsive. */
 static const unsigned int BLOCK_DOWNLOAD_TIMEOUT = 60;
-/** Start checking POW after block 44877 http://live.reddcoin.com/block/4253e7618d40aded00d11b664e874245ae74d55b976f4ac087d1a9db2f5f3cda */
+/** Start checking POW after block 44877 http://live.arepacoin.com/block/4253e7618d40aded00d11b664e874245ae74d55b976f4ac087d1a9db2f5f3cda */
 static const int64_t CHECK_POW_FROM_NTIME = 1394048078;
 #ifdef USE_UPNP
 static const int fHaveUPnP = true;
@@ -112,7 +112,7 @@ extern int nScriptCheckThreads;
 extern bool fTxIndex;
 extern unsigned int nCoinCacheSize;
 
-// Reddcoin PoSV
+// Arepacoin PoSV
 extern std::set<std::pair<COutPoint, unsigned int> > setStakeSeen;
 extern const int64_t nTargetSpacing;
 extern int64_t nLastCoinStakeSearchInterval;

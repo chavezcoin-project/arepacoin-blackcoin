@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Reddcoin Core</source>
-        <translation>Tietoa Reddcoin Coresta</translation>
+        <source>About Arepacoin Core</source>
+        <translation>Tietoa Arepacoin Coresta</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Reddcoin Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Reddcoin Core&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;Arepacoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Arepacoin Core&lt;/b&gt; versio</translation>
     </message>
     <message>
         <source>
@@ -29,8 +29,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
         <translation>Tekijänoikeus</translation>
     </message>
     <message>
-        <source>The Reddcoin Core developers</source>
-        <translation>Reddcoin Core-kehittäjät</translation>
+        <source>The Arepacoin Core developers</source>
+        <translation>Arepacoin Core-kehittäjät</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -218,8 +218,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
         <translation>Lompakko salattu</translation>
     </message>
     <message>
-        <source>Reddcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your reddcoins from being stolen by malware infecting your computer.</source>
-        <translation>Reddcoin sulkeutuu lopettaakseen salausprosessin. Muista, että salattukaan lompakko ei täysin suojaa sitä haittaohjelmien aiheuttamilta varkauksilta.</translation>
+        <source>Arepacoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your arepacoins from being stolen by malware infecting your computer.</source>
+        <translation>Arepacoin sulkeutuu lopettaakseen salausprosessin. Muista, että salattukaan lompakko ei täysin suojaa sitä haittaohjelmien aiheuttamilta varkauksilta.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -277,8 +277,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
         <translation>&amp;Pyyntö</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and reddcoin: URIs)</source>
-        <translation>Pyydä maksuja (generoi QR-koodit ja reddcoin: -URIt)</translation>
+        <source>Request payments (generates QR codes and arepacoin: URIs)</source>
+        <translation>Pyydä maksuja (generoi QR-koodit ja arepacoin: -URIt)</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -297,8 +297,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
         <translation>Sulje ohjelma</translation>
     </message>
     <message>
-        <source>Show information about Reddcoin</source>
-        <translation>Näytä tietoa Reddcoin-projektista</translation>
+        <source>Show information about Arepacoin</source>
+        <translation>Näytä tietoa Arepacoin-projektista</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -353,12 +353,12 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
         <translation>Avaa &amp;URI...</translation>
     </message>
     <message>
-        <source>Open a reddcoin: URI or payment request</source>
-        <translation>Avaa reddcoin: URI tai maksupyyntö</translation>
+        <source>Open a arepacoin: URI or payment request</source>
+        <translation>Avaa arepacoin: URI tai maksupyyntö</translation>
     </message>
     <message>
-        <source>Reddcoin Core client</source>
-        <translation>Reddcoin Core-asiakasohjelma</translation>
+        <source>Arepacoin Core client</source>
+        <translation>Arepacoin Core-asiakasohjelma</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -393,12 +393,12 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
         <translation>Ei osakkaana</translation>
     </message>
     <message>
-        <source>Send coins to a Reddcoin address</source>
-        <translation>Lähetä kolikoita Reddcoin-osoitteeseen</translation>
+        <source>Send coins to a Arepacoin address</source>
+        <translation>Lähetä kolikoita Arepacoin-osoitteeseen</translation>
     </message>
     <message>
-        <source>Modify configuration options for Reddcoin</source>
-        <translation>Muuta Reddcoinin konfiguraatioasetuksia</translation>
+        <source>Modify configuration options for Arepacoin</source>
+        <translation>Muuta Arepacoinin konfiguraatioasetuksia</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -421,8 +421,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
         <translation>Varmista &amp;viesti...</translation>
     </message>
     <message>
-        <source>Reddcoin</source>
-        <translation>Reddcoin</translation>
+        <source>Arepacoin</source>
+        <translation>Arepacoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -438,19 +438,19 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>Näytä tai piilota Reddcoin-ikkuna</translation>
+        <translation>Näytä tai piilota Arepacoin-ikkuna</translation>
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
         <translation>Suojaa yksityiset avaimet, jotka kuuluvat lompakkoosi</translation>
     </message>
     <message>
-        <source>Sign messages with your Reddcoin addresses to prove you own them</source>
-        <translation>Allekirjoita viestisi omalla Reddcoin -osoitteellasi todistaaksesi, että omistat ne</translation>
+        <source>Sign messages with your Arepacoin addresses to prove you own them</source>
+        <translation>Allekirjoita viestisi omalla Arepacoin -osoitteellasi todistaaksesi, että omistat ne</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Reddcoin addresses</source>
-        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä Reddcoin -osoitteella</translation>
+        <source>Verify messages to ensure they were signed with specified Arepacoin addresses</source>
+        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä Arepacoin -osoitteella</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -473,12 +473,12 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin-ydin</translation>
+        <source>Arepacoin Core</source>
+        <translation>Arepacoin-ydin</translation>
     </message>
     <message>
-        <source>&amp;About Reddcoin Core</source>
-        <translation>&amp;Tietoa Reddcoin Coresta</translation>
+        <source>&amp;About Arepacoin Core</source>
+        <translation>&amp;Tietoa Arepacoin Coresta</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -493,12 +493,12 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
         <translation>&amp;Komentorivin valinnat</translation>
     </message>
     <message>
-        <source>Show the Reddcoin Core help message to get a list with possible Reddcoin command-line options</source>
-        <translation>Näytä Reddcoin Coren apuviesti saadaksesi lista kelvollisista komentorivin valinnoista</translation>
+        <source>Show the Arepacoin Core help message to get a list with possible Arepacoin command-line options</source>
+        <translation>Näytä Arepacoin Coren apuviesti saadaksesi lista kelvollisista komentorivin valinnoista</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Reddcoin network</source>
-        <translation><numerusform>%n aktiivinen yhteys Reddcoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Reddcoin-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to Arepacoin network</source>
+        <translation><numerusform>%n aktiivinen yhteys Arepacoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Arepacoin-verkkoon</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -588,8 +588,8 @@ Osoite: %4</translation>
         <translation>Lompakko on &lt;b&gt;salattu&lt;/b&gt; ja tällä hetkellä &lt;b&gt;lukittuna&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Reddcoin can no longer continue safely and will quit.</source>
-        <translation>Peruuttamaton virhe on tapahtunut. Reddcoin ei voi enää jatkaa turvallisesti ja sammutetaan.</translation>
+        <source>A fatal error occurred. Arepacoin can no longer continue safely and will quit.</source>
+        <translation>Peruuttamaton virhe on tapahtunut. Arepacoin ei voi enää jatkaa turvallisesti ja sammutetaan.</translation>
     </message>
 </context>
 <context>
@@ -849,8 +849,8 @@ Osoite: %4</translation>
         <translation>Osoite "%1" on jo osoitekirjassa.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Reddcoin address.</source>
-        <translation>Antamasi osoite "%1" ei ole validi Reddcoin-osoite.</translation>
+        <source>The entered address "%1" is not a valid Arepacoin address.</source>
+        <translation>Antamasi osoite "%1" ei ole validi Arepacoin-osoite.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -879,12 +879,12 @@ Osoite: %4</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Reddcoin Core - Command-line options</source>
-        <translation>Reddcoin Core - Komentorivin asetukset</translation>
+        <source>Arepacoin Core - Command-line options</source>
+        <translation>Arepacoin Core - Komentorivin asetukset</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin-ydin</translation>
+        <source>Arepacoin Core</source>
+        <translation>Arepacoin-ydin</translation>
     </message>
     <message>
         <source>version</source>
@@ -914,12 +914,12 @@ Osoite: %4</translation>
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to Reddcoin Core.</source>
-        <translation>Tervetuloa Reddcoin Core:en.</translation>
+        <source>Welcome to Arepacoin Core.</source>
+        <translation>Tervetuloa Arepacoin Core:en.</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin-ydin</translation>
+        <source>Arepacoin Core</source>
+        <translation>Arepacoin-ydin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -960,12 +960,12 @@ Osoite: %4</translation>
         <translation>Maksa rahansiirtopalkkio</translation>
     </message>
     <message>
-        <source>Automatically start Reddcoin after logging in to the system.</source>
-        <translation>Käynnistä Reddcoin kirjautumisen yhteydessä.</translation>
+        <source>Automatically start Arepacoin after logging in to the system.</source>
+        <translation>Käynnistä Arepacoin kirjautumisen yhteydessä.</translation>
     </message>
     <message>
-        <source>&amp;Start Reddcoin on system login</source>
-        <translation>&amp;Käynnistä Reddcoin kirjautumisen yhteydessä</translation>
+        <source>&amp;Start Arepacoin on system login</source>
+        <translation>&amp;Käynnistä Arepacoin kirjautumisen yhteydessä</translation>
     </message>
     <message>
         <source>MB</source>
@@ -992,8 +992,8 @@ Osoite: %4</translation>
         <translation>Ota kolikoiden &amp;hallinta käyttöön</translation>
     </message>
     <message>
-        <source>Automatically open the Reddcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa Reddcoin-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
+        <source>Automatically open the Arepacoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa Arepacoin-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1033,7 +1033,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Ikkunaa suljettaessa vain pienentää Reddcoin-ohjelman ikkunan lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
+        <translation>Ikkunaa suljettaessa vain pienentää Arepacoin-ohjelman ikkunan lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
     </message>
     <message>
         <source>M&amp;inimize on close</source>
@@ -1048,20 +1048,20 @@ Osoite: %4</translation>
         <translation>&amp;Käyttöliittymän kieli</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Reddcoin.</source>
-        <translation>Tässä voit määritellä käyttöliittymän kielen. Muutokset astuvat voimaan seuraavan kerran, kun Reddcoin käynnistetään.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Arepacoin.</source>
+        <translation>Tässä voit määritellä käyttöliittymän kielen. Muutokset astuvat voimaan seuraavan kerran, kun Arepacoin käynnistetään.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>Yksikkö jona reddcoin-määrät näytetään</translation>
+        <translation>Yksikkö jona arepacoin-määrät näytetään</translation>
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Valitse mitä yksikköä käytetään ensisijaisesti reddcoin-määrien näyttämiseen.</translation>
+        <translation>Valitse mitä yksikköä käytetään ensisijaisesti arepacoin-määrien näyttämiseen.</translation>
     </message>
     <message>
-        <source>Whether to show Reddcoin addresses in the transaction list or not.</source>
-        <translation>Näytetäänkö Reddcoin-osoitteet rahansiirrot listassa vai ei.</translation>
+        <source>Whether to show Arepacoin addresses in the transaction list or not.</source>
+        <translation>Näytetäänkö Arepacoin-osoitteet rahansiirrot listassa vai ei.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1107,8 +1107,8 @@ Osoite: %4</translation>
         <translation>Lomake</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Reddcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu Reddcoin-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Arepacoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu Arepacoin-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1173,12 +1173,12 @@ Osoite: %4</translation>
 <context>
     <name>QObject</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin-ydin</translation>
+        <source>Arepacoin Core</source>
+        <translation>Arepacoin-ydin</translation>
     </message>
     <message>
-        <source>Enter a Reddcoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Syötä Reddcoin-osoite (esim. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>Enter a Arepacoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Syötä Arepacoin-osoite (esim. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
 </context>
 <context>
@@ -1295,7 +1295,7 @@ Osoite: %4</translation>
         <translation>Debug lokitiedosto</translation>
     </message>
     <message>
-        <source>Open the Reddcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Arepacoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Avaa lokitiedosto nykyisestä data-kansiosta. Tämä voi viedä useamman sekunnin, jos lokitiedosto on iso.</translation>
     </message>
     <message>
@@ -1303,8 +1303,8 @@ Osoite: %4</translation>
         <translation>Tyhjennä konsoli</translation>
     </message>
     <message>
-        <source>Welcome to the Reddcoin RPC console.</source>
-        <translation>Tervetuloa Reddcoin RPC konsoliin.</translation>
+        <source>Welcome to the Arepacoin RPC console.</source>
+        <translation>Tervetuloa Arepacoin RPC konsoliin.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1464,7 +1464,7 @@ Osoite: %4</translation>
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Lähetä Reddcoineja</translation>
+        <translation>Lähetä Arepacoineja</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -1540,7 +1540,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>Hyväksy Reddcoinien lähettäminen</translation>
+        <translation>Hyväksy Arepacoinien lähettäminen</translation>
     </message>
     <message>
         <source>Copy quantity</source>
@@ -1584,7 +1584,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>Maksettavan summan tulee olla suurempi kuin 0 Reddcoinia.</translation>
+        <translation>Maksettavan summan tulee olla suurempi kuin 0 Arepacoinia.</translation>
     </message>
     <message>
         <source>The amount exceeds your balance.</source>
@@ -1680,8 +1680,8 @@ Osoite: %4</translation>
         <translation>Kopioi tämänhetkinen allekirjoitus leikepöydälle</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Reddcoin address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Reddcoin-osoitteen</translation>
+        <source>Sign the message to prove you own this Arepacoin address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Arepacoin-osoitteen</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1704,8 +1704,8 @@ Osoite: %4</translation>
         <translation>Syötä allekirjoittava osoite, viesti ja allekirjoitus alla oleviin kenttiin varmistaaksesi allekirjoituksen aitouden. Varmista että kopioit kaikki kentät täsmälleen oikein, myös rivinvaihdot, välilyönnit, tabulaattorit, jne.</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Reddcoin address</source>
-        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Reddcoin-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified Arepacoin address</source>
+        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Arepacoin-osoitteella</translation>
     </message>
     <message>
         <source>Reset all verify message fields</source>
@@ -1716,8 +1716,8 @@ Osoite: %4</translation>
         <translation>Klikkaa "Allekirjoita Viesti luodaksesi allekirjoituksen </translation>
     </message>
     <message>
-        <source>Enter a Reddcoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Syötä Reddcoin-osoite (esim. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>Enter a Arepacoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Syötä Arepacoin-osoite (esim. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
@@ -1771,12 +1771,12 @@ Osoite: %4</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin-ydin</translation>
+        <source>Arepacoin Core</source>
+        <translation>Arepacoin-ydin</translation>
     </message>
     <message>
-        <source>The Reddcoin Core developers</source>
-        <translation>Reddcoin Core-kehittäjät</translation>
+        <source>The Arepacoin Core developers</source>
+        <translation>Arepacoin Core-kehittäjät</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2008,7 +2008,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <source>Destination address of transaction.</source>
-        <translation>Rahansiirron kohteen Reddcoin-osoite</translation>
+        <translation>Rahansiirron kohteen Arepacoin-osoite</translation>
     </message>
     <message>
         <source>Amount removed from or added to balance.</source>
@@ -2157,7 +2157,7 @@ Osoite: %4</translation>
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Lähetä Reddcoineja</translation>
+        <translation>Lähetä Arepacoineja</translation>
     </message>
 </context>
 <context>
@@ -2246,8 +2246,8 @@ Osoite: %4</translation>
         <translation>Varoitus: -paytxfee on asetettu erittäin korkeaksi! Tämä on maksukulu jonka tulet maksamaan kun lähetät siirron.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Reddcoin will not work properly.</source>
-        <translation>Varoitus: Tarkista että tietokoneesi kellonaika ja päivämäärä ovat paikkansapitäviä! Reddcoin ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Arepacoin will not work properly.</source>
+        <translation>Varoitus: Tarkista että tietokoneesi kellonaika ja päivämäärä ovat paikkansapitäviä! Arepacoin ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
     </message>
     <message>
         <source>Block creation options:</source>
@@ -2286,12 +2286,12 @@ Osoite: %4</translation>
         <translation>Tuodaan...</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: reddcoin.conf)</source>
-        <translation>Määritä asetustiedosto (oletus: reddcoin.conf)</translation>
+        <source>Specify configuration file (default: arepacoin.conf)</source>
+        <translation>Määritä asetustiedosto (oletus: arepacoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: reddcoind.pid)</source>
-        <translation>Määritä pid-tiedosto (oletus: reddcoin.pid)</translation>
+        <source>Specify pid file (default: arepacoind.pid)</source>
+        <translation>Määritä pid-tiedosto (oletus: arepacoin.pid)</translation>
     </message>
     <message>
         <source>Wait for RPC server to start</source>
@@ -2326,12 +2326,12 @@ Osoite: %4</translation>
         <translation>RPC-palvelimen valinnat:</translation>
     </message>
     <message>
-        <source>Reddcoin Core Daemon</source>
-        <translation>Reddcoin Core-daemon</translation>
+        <source>Arepacoin Core Daemon</source>
+        <translation>Arepacoin Core-daemon</translation>
     </message>
     <message>
-        <source>Reddcoin Core RPC client version</source>
-        <translation>Reddcoin Core:n RPC-asiakasohjelman versio</translation>
+        <source>Arepacoin Core RPC client version</source>
+        <translation>Arepacoin Core:n RPC-asiakasohjelman versio</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -2350,8 +2350,8 @@ Osoite: %4</translation>
         <translation>Määritä yhteyden aikakataisu millisekunneissa (vakioasetus: 5000)</translation>
     </message>
     <message>
-        <source>Start Reddcoin Core Daemon</source>
-        <translation>Käynnistä Reddcoin Core-daemon</translation>
+        <source>Start Arepacoin Core Daemon</source>
+        <translation>Käynnistä Arepacoin Core-daemon</translation>
     </message>
     <message>
         <source>System error: </source>
@@ -2458,12 +2458,12 @@ Osoite: %4</translation>
         <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko vioittunut</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Reddcoin</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version Reddcoinista</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Arepacoin</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version Arepacoinista</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Reddcoin to complete</source>
-        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä Reddcoin uudelleen</translation>
+        <source>Wallet needed to be rewritten: restart Arepacoin to complete</source>
+        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä Arepacoin uudelleen</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

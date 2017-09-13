@@ -72,12 +72,12 @@ MSYS shell:
 	mkdir miniupnpc
 	cp *.h miniupnpc/
 
-Reddcoin
+Arepacoin
 -------
 MSYS shell:
 
-	cd \reddcoin
+	cd \arepacoin
 	sh autogen.sh
 	sh configure
 	mingw32-make
-	strip reddcoind.exe
+	strip arepacoind.exe

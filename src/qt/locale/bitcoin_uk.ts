@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Reddcoin Core</source>
-        <translation>Про Reddcoin Core</translation>
+        <source>About Arepacoin Core</source>
+        <translation>Про Arepacoin Core</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Reddcoin Core&lt;/b&gt; version</source>
-        <translation>Версія &lt;b&gt;Reddcoin Core&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Arepacoin Core&lt;/b&gt; version</source>
+        <translation>Версія &lt;b&gt;Arepacoin Core&lt;/b&gt;</translation>
     </message>
     <message>
         <source>
@@ -28,8 +28,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Авторське право</translation>
     </message>
     <message>
-        <source>The Reddcoin Core developers</source>
-        <translation>Розробники Reddcoin Core</translation>
+        <source>The Arepacoin Core developers</source>
+        <translation>Розробники Arepacoin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -103,12 +103,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Адреси для отримання</translation>
     </message>
     <message>
-        <source>These are your Reddcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Це ваші Reddcoin-адреси для відправлення платежів. Перед відправленням монет завжди перевіряйте суму та адресу прийому.</translation>
+        <source>These are your Arepacoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Це ваші Arepacoin-адреси для відправлення платежів. Перед відправленням монет завжди перевіряйте суму та адресу прийому.</translation>
     </message>
     <message>
-        <source>These are your Reddcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Це ваша нова Reddcoin адреса для отримування платежів. Рекомендовано використовувати нову адресу для кожної транзакції.</translation>
+        <source>These are your Arepacoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Це ваша нова Arepacoin адреса для отримування платежів. Рекомендовано використовувати нову адресу для кожної транзакції.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -225,7 +225,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Гаманець зашифровано</translation>
     </message>
     <message>
-        <source>Reddcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your reddcoins from being stolen by malware infecting your computer.</source>
+        <source>Arepacoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your arepacoins from being stolen by malware infecting your computer.</source>
         <translation>Біткоін-клієнт буде закрито для завершення процесу шифрування. Пам'ятайте, що шифрування гаманця не може повністю захистити ваші біткоіни від крадіжки, у випадку якщо ваш комп'ютер буде інфіковано шкідливими програмами.</translation>
     </message>
     <message>
@@ -280,8 +280,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Показати загальний огляд гаманця</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and reddcoin: URIs)</source>
-        <translation>Створити запит платежу (генерує QR-код та reddcoin: URI)</translation>
+        <source>Request payments (generates QR codes and arepacoin: URIs)</source>
+        <translation>Створити запит платежу (генерує QR-код та arepacoin: URI)</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -300,8 +300,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Вийти</translation>
     </message>
     <message>
-        <source>Show information about Reddcoin</source>
-        <translation>Показати інформацію про Reddcoin</translation>
+        <source>Show information about Arepacoin</source>
+        <translation>Показати інформацію про Arepacoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -356,12 +356,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Відкрити &amp;URI</translation>
     </message>
     <message>
-        <source>Open a reddcoin: URI or payment request</source>
-        <translation>Відкрити reddcoin: URI чи запит платежу</translation>
+        <source>Open a arepacoin: URI or payment request</source>
+        <translation>Відкрити arepacoin: URI чи запит платежу</translation>
     </message>
     <message>
-        <source>Reddcoin Core client</source>
-        <translation>Клієнт «Reddcoin Core»</translation>
+        <source>Arepacoin Core client</source>
+        <translation>Клієнт «Arepacoin Core»</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -372,11 +372,11 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Переіндексація блоків на диску ...</translation>
     </message>
     <message>
-        <source>Send coins to a Reddcoin address</source>
+        <source>Send coins to a Arepacoin address</source>
         <translation>Відправити монети на вказану адресу</translation>
     </message>
     <message>
-        <source>Modify configuration options for Reddcoin</source>
+        <source>Modify configuration options for Arepacoin</source>
         <translation>Редагувати параметри</translation>
     </message>
     <message>
@@ -400,8 +400,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Перевірити повідомлення...</translation>
     </message>
     <message>
-        <source>Reddcoin</source>
-        <translation>Reddcoin</translation>
+        <source>Arepacoin</source>
+        <translation>Arepacoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -424,12 +424,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Шифрування закритих ключів, які належать вашому гаманці</translation>
     </message>
     <message>
-        <source>Sign messages with your Reddcoin addresses to prove you own them</source>
-        <translation>Підтвердіть, що Ви є власником повідомлення підписавши його Вашою Reddcoin-адресою </translation>
+        <source>Sign messages with your Arepacoin addresses to prove you own them</source>
+        <translation>Підтвердіть, що Ви є власником повідомлення підписавши його Вашою Arepacoin-адресою </translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Reddcoin addresses</source>
-        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною Reddcoin-адресою</translation>
+        <source>Verify messages to ensure they were signed with specified Arepacoin addresses</source>
+        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною Arepacoin-адресою</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -452,12 +452,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>[тестова мережа]</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Arepacoin Core</source>
+        <translation>Arepacoin Core</translation>
     </message>
     <message>
-        <source>&amp;About Reddcoin Core</source>
-        <translation>&amp;Про Reddcoin Core</translation>
+        <source>&amp;About Arepacoin Core</source>
+        <translation>&amp;Про Arepacoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -472,12 +472,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Параметри командного рядка</translation>
     </message>
     <message>
-        <source>Show the Reddcoin Core help message to get a list with possible Reddcoin command-line options</source>
-        <translation>Показати довідку Reddcoin Core для отримання переліку можливих параметрів командного рядка.</translation>
+        <source>Show the Arepacoin Core help message to get a list with possible Arepacoin command-line options</source>
+        <translation>Показати довідку Arepacoin Core для отримання переліку можливих параметрів командного рядка.</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Reddcoin network</source>
-        <translation><numerusform>%n активне з'єднання з мережею Reddcoin</numerusform><numerusform>%n активні з'єднання з мережею Reddcoin</numerusform><numerusform>%n активних з'єднань з мережею Reddcoin</numerusform></translation>
+        <source>%n active connection(s) to Arepacoin network</source>
+        <translation><numerusform>%n активне з'єднання з мережею Arepacoin</numerusform><numerusform>%n активні з'єднання з мережею Arepacoin</numerusform><numerusform>%n активних з'єднань з мережею Arepacoin</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -568,8 +568,8 @@ Address: %4
         <translation>&lt;b&gt;Зашифрований&lt;/b&gt; гаманець &lt;b&gt;заблоковано&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Reddcoin can no longer continue safely and will quit.</source>
-        <translation>Сталася фатальна помилка. Reddcoin завершить роботу.</translation>
+        <source>A fatal error occurred. Arepacoin can no longer continue safely and will quit.</source>
+        <translation>Сталася фатальна помилка. Arepacoin завершить роботу.</translation>
     </message>
 </context>
 <context>
@@ -853,8 +853,8 @@ Address: %4
         <translation>Введена адреса «%1» вже присутня в адресній книзі.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Reddcoin address.</source>
-        <translation>Введена адреса «%1» не є коректною адресою в мережі Reddcoin.</translation>
+        <source>The entered address "%1" is not a valid Arepacoin address.</source>
+        <translation>Введена адреса «%1» не є коректною адресою в мережі Arepacoin.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -891,12 +891,12 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Reddcoin Core - Command-line options</source>
-        <translation>Reddcoin Core - Параметри командного рядка</translation>
+        <source>Arepacoin Core - Command-line options</source>
+        <translation>Arepacoin Core - Параметри командного рядка</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Arepacoin Core</source>
+        <translation>Arepacoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -942,20 +942,20 @@ Address: %4
         <translation>Вітання</translation>
     </message>
     <message>
-        <source>Welcome to Reddcoin Core.</source>
-        <translation>Ласкаво просимо в Reddcoin Core.</translation>
+        <source>Welcome to Arepacoin Core.</source>
+        <translation>Ласкаво просимо в Arepacoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Reddcoin Core will store its data.</source>
-        <translation>Оскільки це перший запуск програми, ви можете обрати де Reddcoin Core буде зберігати дані.</translation>
+        <source>As this is the first time the program is launched, you can choose where Arepacoin Core will store its data.</source>
+        <translation>Оскільки це перший запуск програми, ви можете обрати де Arepacoin Core буде зберігати дані.</translation>
     </message>
     <message>
-        <source>Reddcoin Core will download and store a copy of the Reddcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Reddcoin Core завантажить та збереже копію ланцюжка блоків Reddcoin. Щонайменше %1ГБ даних буде збережено в цьому каталозі. Гаманець теж буде збережено в цьому каталозі.</translation>
+        <source>Arepacoin Core will download and store a copy of the Arepacoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Arepacoin Core завантажить та збереже копію ланцюжка блоків Arepacoin. Щонайменше %1ГБ даних буде збережено в цьому каталозі. Гаманець теж буде збережено в цьому каталозі.</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Arepacoin Core</source>
+        <translation>Arepacoin Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -980,16 +980,16 @@ Address: %4
         <translation>Заплатити комісі&amp;ю</translation>
     </message>
     <message>
-        <source>Automatically start Reddcoin after logging in to the system.</source>
+        <source>Automatically start Arepacoin after logging in to the system.</source>
         <translation>Автоматично запускати гаманець при вході до системи.</translation>
     </message>
     <message>
-        <source>&amp;Start Reddcoin on system login</source>
+        <source>&amp;Start Arepacoin on system login</source>
         <translation>&amp;Запускати гаманець при вході в систему</translation>
     </message>
     <message>
-        <source>Connect to the Reddcoin network through a SOCKS proxy.</source>
-        <translation>Підключення до мережі Reddcoin через SOCKS5 проксі.</translation>
+        <source>Connect to the Arepacoin network through a SOCKS proxy.</source>
+        <translation>Підключення до мережі Arepacoin через SOCKS5 проксі.</translation>
     </message>
     <message>
         <source>Reset all client options to default.</source>
@@ -1004,7 +1004,7 @@ Address: %4
         <translation>&amp;Мережа</translation>
     </message>
     <message>
-        <source>Automatically open the Reddcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Arepacoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Автоматично відкривати порт для клієнту біткоін на роутері. Працює лише якщо ваш роутер підтримує UPnP і ця функція увімкнена.</translation>
     </message>
     <message>
@@ -1060,8 +1060,8 @@ Address: %4
         <translation>Мова інтерфейсу користувача:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Reddcoin.</source>
-        <translation>Встановлює мову інтерфейсу. Зміни набудуть чинності після перезапуску Reddcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Arepacoin.</source>
+        <translation>Встановлює мову інтерфейсу. Зміни набудуть чинності після перезапуску Arepacoin.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1072,8 +1072,8 @@ Address: %4
         <translation>Виберіть одиницю вимірювання монет, яка буде відображатись в гаманці та при відправленні.</translation>
     </message>
     <message>
-        <source>Whether to show Reddcoin addresses in the transaction list or not.</source>
-        <translation>Незалежно від того, щоб показати Reddcoin адреси в списку транзакцій чи ні.</translation>
+        <source>Whether to show Arepacoin addresses in the transaction list or not.</source>
+        <translation>Незалежно від того, щоб показати Arepacoin адреси в списку транзакцій чи ні.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1123,8 +1123,8 @@ Address: %4
         <translation>Форма</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Reddcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Показана інформація вже може бути застарілою. Ваш гаманець буде автоматично синхронізовано з мережею Reddcoin після встановлення підключення, але цей процес ще не завершено.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Arepacoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Показана інформація вже може бути застарілою. Ваш гаманець буде автоматично синхронізовано з мережею Arepacoin після встановлення підключення, але цей процес ще не завершено.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1178,8 +1178,8 @@ Address: %4
         <translation>Обробка URI</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Reddcoin address or malformed URI parameters.</source>
-        <translation>Неможливо обробити URI! Причиною цього може бути некоректна Reddcoin-адреса або неправильні параметри URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Arepacoin address or malformed URI parameters.</source>
+        <translation>Неможливо обробити URI! Причиною цього може бути некоректна Arepacoin-адреса або неправильні параметри URI.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
@@ -1190,8 +1190,8 @@ Address: %4
         <translation>Помилка запиту платежу</translation>
     </message>
     <message>
-        <source>Cannot start reddcoin: click-to-pay handler</source>
-        <translation>Неможливо запустити reddcoin: обробник click-to-pay</translation>
+        <source>Cannot start arepacoin: click-to-pay handler</source>
+        <translation>Неможливо запустити arepacoin: обробник click-to-pay</translation>
     </message>
     <message>
         <source>Net manager warning</source>
@@ -1245,8 +1245,8 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Arepacoin Core</source>
+        <translation>Arepacoin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -1261,12 +1261,12 @@ Address: %4
         <translation>Помилка: Неможливо скомбінувати -regtest і -testnet.</translation>
     </message>
     <message>
-        <source>Reddcoin Core didn't yet exit safely...</source>
-        <translation>Reddcoin Core ще не завершив роботу...</translation>
+        <source>Arepacoin Core didn't yet exit safely...</source>
+        <translation>Arepacoin Core ще не завершив роботу...</translation>
     </message>
     <message>
-        <source>Enter a Reddcoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Введіть адресу Reddcoin (наприклад RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>Enter a Arepacoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Введіть адресу Arepacoin (наприклад RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
 </context>
 <context>
@@ -1383,16 +1383,16 @@ Address: %4
         <translation>Файл звіту зневадження</translation>
     </message>
     <message>
-        <source>Open the Reddcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Відкрийте файл журналу налагодження Reddcoin з поточного каталогу даних. Це може зайняти кілька секунд для великих файлів журналів.</translation>
+        <source>Open the Arepacoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Відкрийте файл журналу налагодження Arepacoin з поточного каталогу даних. Це може зайняти кілька секунд для великих файлів журналів.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Очистити консоль</translation>
     </message>
     <message>
-        <source>Welcome to the Reddcoin RPC console.</source>
-        <translation>Вітаємо у консолі Reddcoin RPC.</translation>
+        <source>Welcome to the Arepacoin RPC console.</source>
+        <translation>Вітаємо у консолі Arepacoin RPC.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1454,8 +1454,8 @@ Address: %4
         <translation>По&amp;вторно використати адресу для отримання (не рекомендується)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Reddcoin network.</source>
-        <translation>Необов'язкове повідомлення на додаток до запиту платежу, котре буде показане під час відкриття запиту. Примітка: Це повідомлення не буде відправлено з платежем через мережу Reddcoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Arepacoin network.</source>
+        <translation>Необов'язкове повідомлення на додаток до запиту платежу, котре буде показане під час відкриття запиту. Примітка: Це повідомлення не буде відправлено з платежем через мережу Arepacoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1767,8 +1767,8 @@ Address: %4
         <translation>Транзакцію відхилено! Це може статись, якщо декілька монет з вашого гаманця вже використані, наприклад, якщо ви використовуєте одну копію гаманця (wallet.dat), а монети були використані з іншої копії, але не позначені як використані в цій.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Reddcoin address</source>
-        <translation>Увага: Неправильна Reddcoin-адреса</translation>
+        <source>Warning: Invalid Arepacoin address</source>
+        <translation>Увага: Неправильна Arepacoin-адреса</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1822,8 +1822,8 @@ Address: %4
         <translation>Це звичайний платіж.</translation>
     </message>
     <message>
-        <source>The Reddcoin address to send the payment to (e.g. Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</source>
-        <translation>Адреса Reddcoin для відправлення платежу (наприклад Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</translation>
+        <source>The Arepacoin address to send the payment to (e.g. Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</source>
+        <translation>Адреса Arepacoin для відправлення платежу (наприклад Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1846,8 +1846,8 @@ Address: %4
         <translation>Повідомлення:</translation>
     </message>
     <message>
-        <source>A message that was attached to the reddcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Reddcoin network.</source>
-        <translation>Повідомлення, що було додане до reddcoin:URI та буде збережено разом з транзакцією для довідки. Примітка: Це повідомлення не буде відправлено в мережу Reddcoin.</translation>
+        <source>A message that was attached to the arepacoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Arepacoin network.</source>
+        <translation>Повідомлення, що було додане до arepacoin:URI та буде збережено разом з транзакцією для довідки. Примітка: Це повідомлення не буде відправлено в мережу Arepacoin.</translation>
     </message>
     <message>
         <source>This is a verified payment request.</source>
@@ -1873,8 +1873,8 @@ Address: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Reddcoin Core is shutting down...</source>
-        <translation>Reddcoin Core вимикається...</translation>
+        <source>Arepacoin Core is shutting down...</source>
+        <translation>Arepacoin Core вимикається...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1896,8 +1896,8 @@ Address: %4
         <translation>Ви можете підписувати повідомлення зі своїми адресами, щоб довести, що ви є їх власником. Остерігайтеся підписувати будь-що незрозуміле, так як за допомогою фішинг-атаки вас можуть спробувати обдурити для отримання вашого підпису під чужими словами. Підписуйте тільки ті повідомлення, з якими ви повністю згодні.</translation>
     </message>
     <message>
-        <source>The Reddcoin address to sign the message with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Адреса Reddcoin для підпису цього повідомлення (наприклад RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>The Arepacoin address to sign the message with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Адреса Arepacoin для підпису цього повідомлення (наприклад RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1928,7 +1928,7 @@ Address: %4
         <translation>Копіювати поточну сигнатуру до системного буферу обміну</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Reddcoin address</source>
+        <source>Sign the message to prove you own this Arepacoin address</source>
         <translation>Підпишіть повідомлення щоб довести, що ви є власником цієї адреси</translation>
     </message>
     <message>
@@ -1952,12 +1952,12 @@ Address: %4
         <translation>Введіть нижче адресу підпису, повідомлення (впевніться, що ви точно скопіювали символи завершення рядку, табуляцію, пробіли тощо) та підпис для перевірки повідомлення. Впевніться, що в підпис не було додано зайвих символів: це допоможе уникнути атак типу «людина посередині».</translation>
     </message>
     <message>
-        <source>The Reddcoin address the message was signed with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Адреса Reddcoin, якою було підписано це повідомлення (наприклад RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX) </translation>
+        <source>The Arepacoin address the message was signed with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Адреса Arepacoin, якою було підписано це повідомлення (наприклад RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX) </translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Reddcoin address</source>
-        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною Reddcoin-адресою</translation>
+        <source>Verify the message to ensure it was signed with the specified Arepacoin address</source>
+        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною Arepacoin-адресою</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1972,8 +1972,8 @@ Address: %4
         <translation>Натисніть кнопку «Підписати повідомлення», для отримання підпису</translation>
     </message>
     <message>
-        <source>Enter a Reddcoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Введіть адресу Reddcoin (наприклад RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>Enter a Arepacoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Введіть адресу Arepacoin (наприклад RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
@@ -2027,12 +2027,12 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Arepacoin Core</source>
+        <translation>Arepacoin Core</translation>
     </message>
     <message>
-        <source>The Reddcoin Core developers</source>
-        <translation>Розробники Reddcoin Core</translation>
+        <source>The Arepacoin Core developers</source>
+        <translation>Розробники Arepacoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2561,24 +2561,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=reddcoinrpc
+rpcuser=arepacoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Arepacoin Alert" admin@foo.com
 </source>
         <translation>%s, ви повинні встановити rpcpassword в файлі конфігурації:
 %s
 Рекомендується використати такий випадковий пароль:
-rpcuser=reddcoinrpc
+rpcuser=arepacoinrpc
 rpcpassword=%s
 (ви не повинні пам'ятати цей пароль)
 Ім’я користувача та пароль ПОВИННІ бути різними.
 Якщо файлу не існує, створіть його, обмеживши доступ правом читання для власника.
 Також рекомендується використовувати alertnotify для того, щоб отримувати сповіщення про проблеми;
-наприклад: alertnotify=echo %%s | mail -s "Сповіщення Reddcoin" admin@foo.com
+наприклад: alertnotify=echo %%s | mail -s "Сповіщення Arepacoin" admin@foo.com
 </translation>
     </message>
     <message>
@@ -2642,8 +2642,8 @@ rpcpassword=%s
         <translation>Встановити кількість потоків скрипту перевірки (від %u до %d, 0 = автоматично, &lt;0 = вказує кількість вільних ядер, типово: %d)</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Reddcoin Core is probably already running.</source>
-        <translation>Неможливо прив'язатися до %s на цьому комп'ютері. Можливо, Reddcoin Core вже запущено.</translation>
+        <source>Unable to bind to %s on this computer. Arepacoin Core is probably already running.</source>
+        <translation>Неможливо прив'язатися до %s на цьому комп'ютері. Можливо, Arepacoin Core вже запущено.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: -proxy)</source>
@@ -2654,8 +2654,8 @@ rpcpassword=%s
         <translation>Увага: встановлено занадто велику комісію (-paytxfee). Комісія зніматиметься кожен раз коли ви проводитимете транзакції.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Reddcoin will not work properly.</source>
-        <translation>Увага: будь ласка, перевірте дату і час на своєму комп'ютері. Якщо ваш годинник йде неправильно, Reddcoin може працювати некоректно.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Arepacoin will not work properly.</source>
+        <translation>Увага: будь ласка, перевірте дату і час на своєму комп'ютері. Якщо ваш годинник йде неправильно, Arepacoin може працювати некоректно.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2834,8 +2834,8 @@ rpcpassword=%s
         <translation>Початковий блок некоректний/відсутній. Чи правильно вказано каталог даних для обраної мережі?</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Reddcoin Core is shutting down.</source>
-        <translation>Не вдалося пройти базові перевірки під час ініціалізації. Reddcoin Core буде вимкнено.</translation>
+        <source>Initialization sanity check failed. Arepacoin Core is shutting down.</source>
+        <translation>Не вдалося пройти базові перевірки під час ініціалізації. Arepacoin Core буде вимкнено.</translation>
     </message>
     <message>
         <source>Invalid -onion address: '%s'</source>
@@ -2858,8 +2858,8 @@ rpcpassword=%s
         <translation>Доповнювати налагоджувальний вивід відміткою часу (типово: 1)</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the wiki.reddcoin.com for SSL setup instructions)</source>
-        <translation>Параметри RPC SSL: (див. wiki.reddcoin.com для налаштування SSL)</translation>
+        <source>RPC SSL options: (see the wiki.arepacoin.com for SSL setup instructions)</source>
+        <translation>Параметри RPC SSL: (див. wiki.arepacoin.com для налаштування SSL)</translation>
     </message>
     <message>
         <source>RPC client options:</source>
@@ -2886,12 +2886,12 @@ rpcpassword=%s
         <translation>Встановити число потоків для обслуговування викликів RPC (типово: 4)</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: reddcoin.conf)</source>
-        <translation>Вкажіть файл конфігурації (типово: reddcoin.conf)</translation>
+        <source>Specify configuration file (default: arepacoin.conf)</source>
+        <translation>Вкажіть файл конфігурації (типово: arepacoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: reddcoind.pid)</source>
-        <translation>Вкажіть pid-файл (типово: reddcoind.pid)</translation>
+        <source>Specify pid file (default: arepacoind.pid)</source>
+        <translation>Вкажіть pid-файл (типово: arepacoind.pid)</translation>
     </message>
     <message>
         <source>Specify wallet file (within data directory)</source>
@@ -2942,8 +2942,8 @@ rpcpassword=%s
         <translation>Імпорт блоків з зовнішнього файлу blk000??.dat</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Reddcoin Core is probably already running.</source>
-        <translation>Не вдалося встановити блокування на каталог даних %s. Reddcoin Core, ймовірно, вже запущений.</translation>
+        <source>Cannot obtain a lock on data directory %s. Arepacoin Core is probably already running.</source>
+        <translation>Не вдалося встановити блокування на каталог даних %s. Arepacoin Core, ймовірно, вже запущений.</translation>
     </message>
     <message>
         <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
@@ -3034,28 +3034,28 @@ rpcpassword=%s
         <translation>Випадковим чином пошкоджувати 1 з &lt;n&gt; мережевих повідомлень</translation>
     </message>
     <message>
-        <source>Reddcoin Core Daemon</source>
-        <translation>Демон Reddcoin Core</translation>
+        <source>Arepacoin Core Daemon</source>
+        <translation>Демон Arepacoin Core</translation>
     </message>
     <message>
-        <source>Reddcoin Core RPC client version</source>
-        <translation>RPC-клієнт Reddcoin Core версії</translation>
+        <source>Arepacoin Core RPC client version</source>
+        <translation>RPC-клієнт Arepacoin Core версії</translation>
     </message>
     <message>
         <source>Run a thread to flush wallet periodically (default: 1)</source>
         <translation>Запустити потік для періодичного збереження даних гаманця (типово: 1)</translation>
     </message>
     <message>
-        <source>SSL options: (see the Reddcoin Wiki for SSL setup instructions)</source>
-        <translation>Параметри SSL: (див. Reddcoin Wiki для налаштування SSL)</translation>
+        <source>SSL options: (see the Arepacoin Wiki for SSL setup instructions)</source>
+        <translation>Параметри SSL: (див. Arepacoin Wiki для налаштування SSL)</translation>
     </message>
     <message>
-        <source>Send command to Reddcoin Core</source>
-        <translation>Надіслати команду до Reddcoin Core</translation>
+        <source>Send command to Arepacoin Core</source>
+        <translation>Надіслати команду до Arepacoin Core</translation>
     </message>
     <message>
-        <source>Send command to reddcoin Core</source>
-        <translation>Надіслати команду до reddcoin Core</translation>
+        <source>Send command to arepacoin Core</source>
+        <translation>Надіслати команду до arepacoin Core</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -3090,8 +3090,8 @@ rpcpassword=%s
         <translation>Вказати тайм-аут підключення у мілісекундах (типово: 5000)</translation>
     </message>
     <message>
-        <source>Start Reddcoin Core Daemon</source>
-        <translation>Запустити демона Reddcoin Core</translation>
+        <source>Start Arepacoin Core Daemon</source>
+        <translation>Запустити демона Arepacoin Core</translation>
     </message>
     <message>
         <source>System error: </source>
@@ -3110,8 +3110,8 @@ rpcpassword=%s
         <translation>Транзакція занадто велика</translation>
     </message>
     <message>
-        <source>Usage (deprecated, use reddcoin-cli):</source>
-        <translation>Використання (застаріле, використовуйте reddcoin-cli):</translation>
+        <source>Usage (deprecated, use arepacoin-cli):</source>
+        <translation>Використання (застаріле, використовуйте arepacoin-cli):</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: 0)</source>
@@ -3202,11 +3202,11 @@ rpcpassword=%s
         <translation>Помилка при завантаженні wallet.dat: Гаманець пошкоджено</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Reddcoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Arepacoin</source>
         <translation>Помилка при завантаженні wallet.dat: Гаманець потребує новішої версії Біткоін-клієнта</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Reddcoin to complete</source>
+        <source>Wallet needed to be rewritten: restart Arepacoin to complete</source>
         <translation>Потрібно перезаписати гаманець: перезапустіть Біткоін-клієнт для завершення</translation>
     </message>
     <message>

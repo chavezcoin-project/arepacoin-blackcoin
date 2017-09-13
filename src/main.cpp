@@ -28,7 +28,7 @@ using namespace std;
 using namespace boost;
 
 #if defined(NDEBUG)
-# error "Reddcoin cannot be compiled without assertions."
+# error "Arepacoin cannot be compiled without assertions."
 #endif
 
 //
@@ -74,7 +74,7 @@ void EraseOrphansFor(NodeId peer);
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "Reddcoin Signed Message:\n";
+const string strMessageMagic = "Arepacoin Signed Message:\n";
 
 // PoSV
 set<pair<COutPoint, unsigned int> > setStakeSeen;
@@ -835,7 +835,7 @@ int64_t GetMinFee(const CTransaction& tx, unsigned int nBlockSize, unsigned int 
             nMinFee = 0;
     }
 
-    // Reddcoin
+    // Arepacoin
     // To limit dust spam, add nBaseFee for each output less than DUST_SOFT_LIMIT
     BOOST_FOREACH(const CTxOut& txout, tx.vout)
         if (txout.nValue < DUST_SOFT_LIMIT)
@@ -1258,7 +1258,7 @@ int64_t GetBlockValue(int nHeight, int64_t nFees)
         // Genesis block
         nSubsidy = 10000 * COIN;
     } else if (nHeight < 11) {
-        // Premine: First 10 block are 545,000,000 RDD (5% of the total coin)
+        // Premine: First 10 block are 545,000,000 ARC (5% of the total coin)
         nSubsidy = 545000000 * COIN;
     } else if (nHeight < 10000) {
         // Bonus reward for block 10-9,999 of 300,000 coins
@@ -1917,7 +1917,7 @@ bool FindUndoPos(CValidationState &state, int nFile, CDiskBlockPos &pos, unsigne
 static CCheckQueue<CScriptCheck> scriptcheckqueue(128);
 
 void ThreadScriptCheck() {
-    RenameThread("reddcoin-scriptch");
+    RenameThread("arepacoin-scriptch");
     scriptcheckqueue.Thread();
 }
 
@@ -2724,7 +2724,7 @@ bool AcceptBlock(CBlock& block, CValidationState& state, CDiskBlockPos* dbp)
             }
         }
         // Enforce block.nVersion=2 rule that the coinbase starts with serialized block height
-        // Reddcoin did not enable this BIP 34
+        // Arepacoin did not enable this BIP 34
         // TBD
         /*
         if (block.nVersion >= 3)

@@ -86,13 +86,13 @@ bool AppInit(int argc, char* argv[])
         if (mapArgs.count("-?") || mapArgs.count("--help"))
         {
             // First part of help message is specific to bitcoind / RPC client
-            std::string strUsage = _("Reddcoin Core Daemon") + " " + _("version") + " " + FormatFullVersion() + "\n\n" +
+            std::string strUsage = _("Arepacoin Core Daemon") + " " + _("version") + " " + FormatFullVersion() + "\n\n" +
                 _("Usage:") + "\n" +
-                  "  reddcoind [options]                     " + _("Start Reddcoin Core Daemon") + "\n" +
-                _("Usage (deprecated, use reddcoin-cli):") + "\n" +
-                  "  reddcoind [options] <command> [params]  " + _("Send command to Reddcoin Core") + "\n" +
-                  "  reddcoind [options] help                " + _("List commands") + "\n" +
-                  "  reddcoind [options] help <command>      " + _("Get help for a command") + "\n";
+                  "  arepacoind [options]                     " + _("Start Arepacoin Core Daemon") + "\n" +
+                _("Usage (deprecated, use arepacoin-cli):") + "\n" +
+                  "  arepacoind [options] <command> [params]  " + _("Send command to Arepacoin Core") + "\n" +
+                  "  arepacoind [options] help                " + _("List commands") + "\n" +
+                  "  arepacoind [options] help <command>      " + _("Get help for a command") + "\n";
 
             strUsage += "\n" + HelpMessage(HMM_BITCOIND);
             strUsage += "\n" + HelpMessageCli(false);
@@ -116,7 +116,7 @@ bool AppInit(int argc, char* argv[])
         fDaemon = GetBoolArg("-daemon", false);
         if (fDaemon)
         {
-            fprintf(stdout, "Reddcoin server starting\n");
+            fprintf(stdout, "Arepacoin server starting\n");
 
             // Daemonize
             pid_t pid = fork();
