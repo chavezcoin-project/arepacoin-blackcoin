@@ -157,9 +157,11 @@ public:
         // CTransaction txGenesis = genesis.vtx[0];
         genesis.nTime = 1446002303;
         // genesis.vtx[0] = txGenesis;
-        genesis.nNonce = 2108003;
+        genesis.nNonce = 2726680;
+        // MineGenesis(genesis);
+
         hashGenesisBlock = genesis.GetHash();
-        assert(hashGenesisBlock == uint256("0xa12ac9bd4cd26262c53a6277aafc61fe9dfe1e2b05eaa1ca148a5be8b394e35a"));
+        assert(hashGenesisBlock == uint256("0x00000e561e9a102d9a74a6f495b2aab50bf344451487b87b04812a2cd45d04bc"));
 
         vFixedSeeds.clear();
         vSeeds.clear();
@@ -192,11 +194,13 @@ public:
         nLastProofOfWorkHeight = 350 - 1;
         genesis.nTime = 1401051600;
         genesis.nBits = 0x207fffff;
-        genesis.nNonce = 3;
+        genesis.nNonce = 3264222;
         hashGenesisBlock = genesis.GetHash();
         nDefaultPort = 56444;
         strDataDir = "regtest";
-        assert(hashGenesisBlock == uint256("0x0472dc040de80ded8bd385a2b6bc6e4e05cb6432047efa07692724c6ccef40ac"));
+        // MineGenesis(genesis);
+
+        assert(hashGenesisBlock == uint256("0x0000041216260ef07fa7d203d7905105e57a984be95123e62c4d8ef8b25bd4eb"));
 
         vSeeds.clear();  // Regtest mode doesn't have any DNS seeds.
     }
