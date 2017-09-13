@@ -88,13 +88,13 @@ public:
         genesis.nVersion = 1;
         genesis.nTime    = 1504954620;
         genesis.nBits    = 0x1e0ffff0;
-        genesis.nNonce   = 0;
+        genesis.nNonce   = 94821;
 
-        MineGenesis(genesis);
+        // MineGenesis(genesis);
 
         hashGenesisBlock = genesis.GetHash();
-        assert(hashGenesisBlock == uint256("0x"));
-        assert(genesis.hashMerkleRoot == uint256("0x"));
+        assert(hashGenesisBlock == uint256("0x00000c2c9e929d17bd4164ef98567cb655a5f5b3117b6ebb2c0bd62ebce7d31b"));
+        assert(genesis.hashMerkleRoot == uint256("0x19440e920494c580c4511e28b1c4dc779ddbf74879f45262262154118953a1e6"));
 
         vSeeds.push_back(CDNSSeedData("seed_3", "192.189.25.192"));
         vSeeds.push_back(CDNSSeedData("seed_4", "192.189.25.191"));
