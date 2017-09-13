@@ -18,6 +18,29 @@ using namespace boost::assign;
 // Main network
 //
 
+void MineGenesis(CBlock genesis){
+    // This will figure out a valid hash and Nonce if you're creating a different genesis block:
+    uint256 hashTarget = CBigNum().SetCompact(Params().ProofOfWorkLimit().GetCompact()).getuint256();
+    printf("Target: %s\n", hashTarget.GetHex().c_str());
+    uint256 newhash = genesis.GetHash();
+    uint256 besthash;
+    memset(&besthash,0xFF,32);
+    while (newhash > hashTarget) {
+        ++genesis.nNonce;
+        if (genesis.nNonce == 0){
+            printf("NONCE WRAPPED, incrementing time");
+            ++genesis.nTime;
+        }
+    newhash = genesis.GetHash();
+    if(newhash < besthash){
+        besthash=newhash;
+        printf("New best: %s\n", newhash.GetHex().c_str());
+    }
+    }
+    printf("Found Genesis, Nonce: %ld, Hash: %s\n", genesis.nNonce, genesis.GetHash().GetHex().c_str());
+    printf("Gensis Hash Merkle: %s\n", genesis.hashMerkleRoot.ToString().c_str());
+}
+
 unsigned int pnSeed[] =
 {
     0xc6c74b0a, 0x6baafdeb, 0xa2f3d1bc, 0xbce287b5, 0xbce287b8, 0x688361e5, 0xb23e116a, 0x80c789bb,
@@ -29,13 +52,13 @@ public:
         // The message start string is designed to be unlikely to occur in normal data.
         // The characters are rarely used upper ASCII, not valid as UTF-8, and produce
         // a large 4-byte int at any alignment.
-        pchMessageStart[0] = 0xfb;
-        pchMessageStart[1] = 0xc0;
-        pchMessageStart[2] = 0xb6;
-        pchMessageStart[3] = 0xdb;
-        vAlertPubKey = ParseHex("0437b4b0f5d356f205c17ffff6c46dc9ec4680ffb7f8a9a4e6eebcebd5f340d01df00ef304faea7779d97d8f1addbe1e87308ea237aae3ead96e0a736c7e9477a1");
-        nDefaultPort = 45444;
-        nRPCPort = 45443;
+        pchMessageStart[0] = 0x70;
+        pchMessageStart[1] = 0x61;
+        pchMessageStart[2] = 0x6e;
+        pchMessageStart[3] = 0x61;
+        vAlertPubKey = ParseHex("4d616475726f20736520746520766120612061636162617220656c207265696e61646f20706170752c2063616d62696172656d6f7320656c2073697374656d612e");
+        nDefaultPort = 47047;
+        nRPCPort = 47048;
         bnProofOfWorkLimit = CBigNum(~uint256(0) >> 20);
         nSubsidyHalvingInterval = 210000;
 
@@ -51,8 +74,8 @@ public:
         //     CTxIn(COutPoint(0000000000, -1), coinbase 04ffff001d0104404e592054696d65732030352f4f63742f32303131205374657665204a6f62732c204170706c65e280997320566973696f6e6172792c2044696573206174203536)
         //     CTxOut(nValue=50.00000000, scriptPubKey=040184710fa689ad5023690c80f3a4)
         //   vMerkleTree: 97ddfbbae6
-        const char* pszTimestamp = "January 21st 2014 was such a nice day...";
-        CTransaction txNew(1390280400);
+        const char* pszTimestamp = "The most delicious coin has ever had the cryptocurrencies";
+        CTransaction txNew(1504954620);
         txNew.nVersion = 1;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
@@ -63,16 +86,18 @@ public:
         genesis.hashPrevBlock = 0;
         genesis.hashMerkleRoot = genesis.BuildMerkleTree();
         genesis.nVersion = 1;
-        genesis.nTime    = 1390280400;
+        genesis.nTime    = 1504954620;
         genesis.nBits    = 0x1e0ffff0;
-        genesis.nNonce   = 222583475;
+        genesis.nNonce   = 0;
+
+        MineGenesis(genesis);
 
         hashGenesisBlock = genesis.GetHash();
-        assert(hashGenesisBlock == uint256("0xb868e0d95a3c3c0e0dadc67ee587aaf9dc8acbf99e3b4b3110fad4eb74c1decc"));
-        assert(genesis.hashMerkleRoot == uint256("0xb502bc1dc42b07092b9187e92f70e32f9a53247feae16d821bebffa916af79ff"));
+        assert(hashGenesisBlock == uint256("0x"));
+        assert(genesis.hashMerkleRoot == uint256("0x"));
 
-        vSeeds.push_back(CDNSSeedData("reddcoin.com", "seed.reddcoin.com"));
-        vSeeds.push_back(CDNSSeedData("dnsseed.redd.ink", "dnsseed.redd.ink"));
+        vSeeds.push_back(CDNSSeedData("seed_3", "192.189.25.192"));
+        vSeeds.push_back(CDNSSeedData("seed_4", "192.189.25.191"));
 
         base58Prefixes[PUBKEY_ADDRESS] = list_of(61);
         base58Prefixes[SCRIPT_ADDRESS] = list_of(5);
